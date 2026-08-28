@@ -237,10 +237,10 @@ export default function Hero() {
                                 Currently building
                             </div>
                             <div className="font-medium text-[#0f0f0f] tracking-tight" style={{ fontSize: '13.5px' }}>
-                                OpenAI API Testing Tool
+                                Smart Parking Slot Rental & Availability Platform
                             </div>
                             <div className="mt-1" style={{ fontSize: '12px', color: '#999', lineHeight: 1.5 }}>
-                                Test your OpenAI api easily with Ollama
+                                A web application that allows users to find and rent available parking slots in real-time, with features like slot availability tracking, booking management, and payment integration.
                             </div>
                         </div>
 
